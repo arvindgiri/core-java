@@ -1,4 +1,4 @@
-package com.arv;
+package com.arv.java;
 
 //Few comments
 public class Main {
